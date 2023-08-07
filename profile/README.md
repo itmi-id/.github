@@ -49,15 +49,6 @@ Links:
 - [Lifepack on Instagram](https://www.instagram.com/lifepack.id/)
 - [Lifepack on Facebook](https://www.facebook.com/lifepack.id/)
 
-## 🧑‍🤝‍🧑 Meet the Team
-
-| Image | Full Name | Role | LinkedIn |
-|-------|-----------|------|---------------|
-| ![faren-photo_edited.jpg](https://static.wixstatic.com/media/06b544_e25c016feaae43b3887977945acecce9~mv2_d_1727_2338_s_2.jpg/v1/crop/x_0,y_0,w_1727,h_1737/fill/w_216,h_217,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/faren-photo_edited.jpg) | Faren | Chief Technical Officer | [LinkedIn](https://www.linkedin.com/in/farenfaren/) |
-| ![edited.png](https://static.wixstatic.com/media/828519_431245fafdec440a8b9adbac551e2720~mv2.png/v1/fill/w_210,h_217,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/edited.png) | Hari Novferdianto | Chief Operating Officer | [LinkedIn](https://www.linkedin.com/in/novferdianto/) |
-| ![aji_edited.jpg](https://static.wixstatic.com/media/06b544_9b3fe504549749a48815853ac5ccd215~mv2.jpg/v1/crop/x_0,y_8,w_453,h_454/fill/w_216,h_217,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/aji_edited.jpg) | Abi Dwiaji Wicahyo | Chief Commercial Officer | [LinkedIn](https://www.linkedin.com/in/abi-dwiaji-wicahyo-44337955/) |
-| ![natali.jpeg](https://static.wixstatic.com/media/06b544_025dfee7f3e54613b748b51fe003137f~mv2.jpeg/v1/fill/w_210,h_217,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/natali.jpeg) | Natali Ardianto | Chief Executive Officer | [LinkedIn](https://www.linkedin.com/in/nataliardianto/) |
-
 ## ☎️ Contacts
 
 <teman@itmi.id>
